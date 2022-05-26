@@ -1,2 +1,2 @@
-# My-Starter
+# Wordle
 My first project ever :)
