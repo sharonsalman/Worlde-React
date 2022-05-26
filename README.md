@@ -1,2 +1,2 @@
-# My-Starters
-My first projects ever :)
+# My-Starter
+My first project ever :)
