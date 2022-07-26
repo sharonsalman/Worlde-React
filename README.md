@@ -1,2 +1,1 @@
-# Wordle
-My first project ever :)
+A Worlde project.
